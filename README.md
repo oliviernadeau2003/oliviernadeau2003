@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 👋 Salut, je suis Olivier Nadeau!<br><br>🎓 Actuellement étudiant en troisième année de Technique de l'informatique au CÉGEP de Saint-Jérome.<br><br>🔭 En ce moment, je travaille sur divers projets passionnants liés à l'informatique, notamment [Mes projets de fin de sessions 🤯].<br><br>👯 Je suis ouvert à la collaboration sur des projets intéressants. Si vous avez des idées ou si vous cherchez quelqu'un pour contribuer à votre projet, n'hésitez pas à me contacter!<br><br>🌱 En constante évolution, je suis actuellement en train d'approfondir mes connaissances en Support TI.<br><br>💬 Vous pouvez me solliciter pour discuter de tout ce qui touche à l'informatique, que ce soit des problèmes de codage, des idées de projets ou simplement pour échanger des connaissances.<br><br>N'hésitez pas à explorer mes projets GitHub et à me contacter si vous avez des questions ou des suggestions. Ensemble, créons quelque chose d'extraordinaire! 🚀
 
 
@@ -13,6 +13,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=oliviernadeau2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=oliviernadeau2003&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=oliviernadeau2003&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
